@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="t_cinnamonquinoa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>How to Make Sunshine Cinnamon Nut Quinoa</title>
+    <shortdesc>This Sunshine Cinnamon Nut Quinoa recipe takes a twist on the classic oatmeal. It's
+        sweet, healthy, and indulging. The recipe makes <b>4 servings</b>
+    </shortdesc>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li id="almondmilk" audience="armando">1 cup unsweetened almond milk</li>
+                <li id="cowmilk" audience="mom">1 cup milk</li>
+                <li>1 cup water</li>
+                <li>1 cup quinoa (note: rinse quinoa)</li>
+                <li>2 cups fresh blueberries</li>
+                <li>1/2 teaspoon ground cinnamon</li>
+                <li>1/3 cup silver almonds, toasted</li>
+                <li>4 teaspoons agave nectar</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>Preparation:</p>
+        </context>
+        <steps>
+            <step audience="mom">
+                <cmd>In a medium saucepan on high heat, combine the quinoa, water, and milk and bring it to a boil</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>In a medium saucepan on high heat, combine the quinoa, water, and almond milk
+                    and bring it to a boil.</cmd>
+            </step>
+            <step>
+                <cmd>Once the ingredients are boiling, reduce the heat to medium-low and cover the
+                    saucepan.</cmd>
+            </step>
+            <step>
+                <cmd>Let the ingredients simmer for 15 minutes until the liquid is absorbed into the quinoa.</cmd>
+            </step>
+            <step>
+                <cmd>After 15 minutes or so, turn off the heat and let the ingredients cool off for 5 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Turn on another stove plate to medium heat.</cmd>
+            </step>
+            <step>
+                <cmd>Using a dry skillet, roast the almonds for 2 to 3 minutes. Add in cinnamon while roasting.</cmd>
+            </step>
+            <step>
+                <cmd>Once the quinoa and almonds are ready, you may transfer them into 4 bowls. </cmd>
+            </step>
+            <step>
+                <cmd>Add the blueberries, agave nectar, and extra almonds over your quinoa as you
+                    desire. <image href="sunshine_cinnamon_nut_quinoa.jpg" width="2in"
+                        height="1.5in" id="image_fp1_yv2_5x"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

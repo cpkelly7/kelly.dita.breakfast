@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="ts_troubleshootingrecipes">
+  <title>Troubleshooting</title>
+  <troublebody>
+    <condition>
+      <p>Here I will go over some possible issues you may encounter while cooking these recipes.If you have an issue that is not listed, please contact me at cpkelly7@vt.edu and I will find a solution for you. </p>
+    </condition>
+    <troubleSolution>
+      <cause>
+        <p><b>1. You cannot roast the almonds for the Sunshine Cinnamon Nut Quinoa recipe because you do not own a dry skillet.</b></p>
+      </cause>
+      <remedy><steps-unordered>
+        <step>
+          <cmd>In a toaster oven, roast the almonds on 350 degrees fahrenheit for 4 to 6 minutes.</cmd>
+        </step>
+      </steps-unordered>
+      </remedy>
+    </troubleSolution>
+    <troubleSolution>
+      <cause>
+        <p><b>2. You do not own a panini press for the breakfast sandwich recipe.</b></p>
+      </cause>
+      <remedy><steps-unordered>
+        <step>
+          <cmd>A good alternative to a panini press is a regular saucepan. To press the ingredients, simply use a big lid (i.e., from a pot) to press it down.</cmd>
+        </step>
+      </steps-unordered>
+      </remedy>
+    </troubleSolution>
+    <troubleSolution>
+      <cause>
+        <p id="cowmilk" audience="mom"><b>3. You do not want to use milk in your recipes and you're wondering what milk substitutes are acceptable.</b></p>
+        <p id="almondmilk" audience="armando"><b>3.You do not like almond milk and you're wondering if you can use other vegan milk substitutes.</b></p>
+      </cause>
+      <remedy><steps-unordered>
+        <step>
+          <cmd audience="mom">You may want to use almond milk, which is a popular milk substitute.</cmd>
+        </step>
+        <step>
+          <cmd audience="armando">You may substitute the almond milk for another kind of vegan milk. We do advise that you use an unsweetened substitute for cooking. Also, please note that changing the type of milk may affect the intended taste of the recipe.</cmd>
+        </step>
+      </steps-unordered>
+      </remedy>
+    </troubleSolution>
+    <troubleSolution>
+      <cause>
+        <p><b>4. You have never made quinoa before and you want to make it right. What does the recipe mean by rinsing the quinoa?</b></p>
+      </cause>
+      <remedy><steps-unordered>
+        <step>
+          <cmd>Rinse the quinoa under cold water for 2 minutes using a fine mesh strainer. Cooking quinoa is a lot like cooking rice, you want to use an appropriate amount of water, and you want to ensure that the water is absorbed by the quinoa.</cmd>
+        </step>
+      </steps-unordered>
+      </remedy>
+    </troubleSolution>
+  </troublebody>
+</troubleshooting>

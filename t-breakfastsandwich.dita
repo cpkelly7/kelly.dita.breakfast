@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="t_breakfastsandwich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>How to Make a Simple Breakfast Sandwich</title>
+    <shortdesc>This Simple Breakfast Sandwich is a fresh classic that can be made in just 15
+        minutes. This recipe makes enough for <b>one serving.</b>
+    </shortdesc>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li>1 english muffin</li>
+                <li id="soysage" audience="armando">1 vegan soysage patty</li>
+                <li id="sausage" audience="mom">1 sausage patty</li>
+                <li>3 thin slices bell pepper</li>
+                <li id="vegancheese" audience="armando">1 tablespoon vegan shredded cheese</li>
+                <li id="cheese" audience="mom">1 tablespoon shredded cheese</li>
+                <li id="veganbutter" audience="armando">1/2 teaspoon of Earth Balance vegan butter</li>
+                <li id="butter" audience="mom">1/2 teaspoon of butter</li>
+                <li>1 teaspoon maple syrup or berry jam (your choice)</li>
+                <li>Pinch of black pepper</li>
+                <li>Extra virgin olive oil</li>
+                <li>1 teaspoon hot sauce (optional)</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>Preparation:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Place the unsliced english muffin under the panini press for about 45 seconds.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the english muffin from the panini press.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Place the soysage on the panini press and let it cook for about 2 minutes.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Place the sausage patty on the panini press and let it cook for about 2 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Slice the english muffin open.</cmd>
+            </step>
+            <step>
+                <cmd>Put the engish muffins back on the panini press with the open faced ends directly on the grill.</cmd>
+            </step>
+            <step>
+                <cmd>Coat the bell peppers in the extra virgin olive oil and place them on the
+                    panini press.</cmd>
+            </step>
+            <step> 
+                <cmd>Close the panini press lid and let the ingredients grill for another minute or so. Once it's done, turn off the panini press but leave the ingredients still on the panini press surface.</cmd>
+            </step>
+            <step>
+                <cmd>Sprinkle the cheese over top of the patties.</cmd>
+            </step>
+            <step>
+                <cmd>Put the peppers on top of the cheese.</cmd>
+            </step>
+            <step>
+                <cmd>Close the panini press one more time and make sure that it is still turned off.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the english muffin from the press.</cmd>
+           </step>
+            <step>
+                <cmd>Spread the butter on one side of the english muffin.</cmd>
+            </step>
+            <step>
+                <cmd>Spread the maple syrup of jam on the other side of the english muffin.</cmd>
+            </step>
+            <step>
+                <cmd>Place the patty in between the english muffin. Add hot sauce if you desire.
+                        <image href="breakfast-sandwich-vegan-4.jpg" width="2in" height="1.5in"
+                        id="image_gs5_cw2_5x"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

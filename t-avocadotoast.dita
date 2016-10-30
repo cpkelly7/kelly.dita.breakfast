@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="t_avocadotoast" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>How to Make Hummus Avocado Toast</title>
+    <shortdesc>This Hummus Avocaco Toast recipe makes <b>1 serving.</b> It is a protein-packed,
+        nutritious, and good to eat!                                                                                                                       </shortdesc>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li id="wheatbread" audience="mom">2 slices whole grain bread</li>
+                <li id="veganbread" audience="armando">2 slices vegan whole grain bread</li>
+                <li>2 tablespoons hummus</li>
+                <li>3 slices avocado
+                    <note>You will have to slice the avocado before you begin making the recipe.</note></li>
+                <li>Himalayan pink salt and pepper to taste</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>Preparation:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Toast the bread however you like.</cmd>
+            </step>
+            <step>
+                <cmd>Once the bread is toasted, spread the hummus on each slice.</cmd>
+            </step>
+            <step>
+                <cmd>Place the avocado slices on top of the bread.</cmd>
+            </step>
+            <step>
+                <cmd>Top the avocado toast with the himalayan pink salt and pepper to taste.  <image
+                        href="hummusavocadotoast.jpg" width="2in" height="1.5in"
+                        id="image_h4d_bw2_5x"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

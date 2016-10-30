@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA Learning BookMap//EN" "learningbookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Recipe Guide for Armando</mainbooktitle>
+    </booktitle>
+    <chapter href="c-introduction.dita"/>
+    <chapter href="top-recipes.dita">
+        <topicref href="t-frenchtoast-recipe.dita"/>
+        <topicref href="t-cinnamonquinoa.dita"/>
+        <topicref href="t-avocadotoast.dita"/>
+        <topicref href="t-breakfastsandwich.dita"/>
+    </chapter>
+    <chapter href="ts-recipehelp.dita"/>
+    <chapter href="top-references.dita"/>
+    <chapter href="c-conclusion.dita"/>
+</bookmap>

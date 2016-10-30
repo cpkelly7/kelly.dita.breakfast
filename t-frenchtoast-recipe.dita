@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="t_frenchtoast" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>How to Make Wake-Up French Toast</title>
+    <shortdesc>The Wake-Up French Toast recipe makes <b>4 servings</b> of the fruity and delicious
+        french toast you know and love.                                                                                                                </shortdesc>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li id="wheatbread" audience="mom">8 slices of whole grain</li>
+                <li id="cowmilk" audience="mom">1 cup milk</li>
+                <li id="eggs" audience="mom">2 eggs</li>
+                <li id="veganbread" audience="armando">8 slices of whole grain vegan bread</li>
+                <li id="almondmilk" audience="armando">1 cup unsweetened almond milk</li>
+                <li id="cinnamon" audience="armando">1/2 teaspoon cinnamon</li>
+                <li id="vanilla" audience="armando">1/4 teaspoon vanilla</li>
+                <li id="banana" audience="armando">1 ripe banana</li>
+                <li>1 cup grapes</li>
+                <li>4 strawberries, sliced</li>
+                <li>1 orange, sliced</li>
+                <li>1 kiwi sliced</li>
+                <li>8 teaspoon maple syrup</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>Preparation:</p>
+        </context>
+        <steps>
+            <step audience="mom">
+                <cmd>Crack two eggs into a small bowl and whisk.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Mash the banana in a small bowl. It is best to mash the banana with a fork.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Add the milk into the small bowl with the eggs.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Add the almond milk, cinnamon, and vanilla into the small bowl with the eggs.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Mix the eggs and milk together.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Mix the almond milk, cinnamon, vanilla, and mashed banana together.</cmd>
+            </step>
+            <step>
+                <cmd>Turn the stove on medium heat and spray your pan with cooking spray.</cmd>
+            </step>
+            <step>
+                <cmd>Dip the bread into the eggs and milk mixture one at a time. Make sure each side is covered in the mixture.</cmd>
+            </step>
+            <step>
+                <cmd>Place the bread on the hot pan. Cook on each side for 4 minutes or until golden brown.</cmd>
+            </step>
+            <step>
+                <cmd>Add the maple syrup and fruit toppings to your french toast as you
+                        desire.<image href="wake_up_french_toast.jpg" width="2in " height="1.5in"
+                        id="image_ljb_tv2_5x"/></cmd>
+            </step>
+            
+        </steps>
+    </taskbody>
+</task>
