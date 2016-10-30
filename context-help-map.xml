@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c_intro" path="c-introduction.html"/>
+   <appContext helpID="top_recipes" path="top-recipes.html"/>
+   <appContext helpID="t_frenchtoast" path="t-frenchtoast-recipe.html"/>
+   <appContext helpID="t_cinnamonquinoa" path="t-cinnamonquinoa.html"/>
+   <appContext helpID="t_avocadotoast" path="t-avocadotoast.html"/>
+   <appContext helpID="t_breakfastsandwich" path="t-breakfastsandwich.html"/>
+   <appContext helpID="ts_troubleshootingrecipes" path="ts-recipehelp.html"/>
+   <appContext helpID="topic_vbp_lcd_5x" path="top-references.html"/>
+   <appContext helpID="c_conclusion" path="c-conclusion.html"/>
+</map>
