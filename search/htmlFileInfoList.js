@@ -1,0 +1,10 @@
+fil = new Array();
+fil["0"]= "c-conclusion.html@@@Finishing Up@@@Now that you have learned about the recipes and troubleshooting, you are well on your way to making healthy, simple breakfasts!...";
+fil["1"]= "c-introduction.html@@@Recipe Guide@@@This  Recipe Book  will cover 4 healthy breakfast recipes and troubleshooting. I hope these recipes will be appealing and convenient for you!...";
+fil["2"]= "t-avocadotoast.html@@@How to Make Hummus Avocado Toast@@@This Hummus Avocaco Toast recipe makes 1 serving. It is a protein-packed, nutritious, and good to eat!...";
+fil["3"]= "t-breakfastsandwich.html@@@How to Make a Simple Breakfast Sandwich@@@This Simple Breakfast Sandwich is a fresh classic that can be made in just 15 minutes. This recipe makes enough for one serving...";
+fil["4"]= "t-cinnamonquinoa.html@@@How to Make Sunshine Cinnamon Nut Quinoa@@@This Sunshine Cinnamon Nut Quinoa recipe takes a twist on the classic oatmeal. It s sweet, healthy, and indulging. The recipe makes 4 servings...";
+fil["5"]= "t-frenchtoast-recipe.html@@@How to Make Wake-Up French Toast@@@The Wake-Up French Toast recipe makes 4 servings of the fruity and delicious french toast you know and love...";
+fil["6"]= "top-recipes.html@@@Breakfast Recipes@@@Here you will find a variety of healthy breakfast options. All of these recipes can be modified to use vegan-friendly ingredients...";
+fil["7"]= "top-references.html@@@References@@@Listed below are websites that include the recipes mentioned in this recipe guide and some other recipes. They are technically vegan recipes, but you may substitute any vegan ingredients with...";
+fil["8"]= "ts-recipehelp.html@@@Troubleshooting@@@Here I will go over some possible issues you may encounter while cooking these recipes.If you have an issue that is not listed, please contact me at cpkelly7@vt.edu and I will find a solution for you...";
